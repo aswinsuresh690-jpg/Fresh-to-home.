@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+}
+.Header{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(48, 0, 53);
+}
+.hd{
+    color:rgb(255, 255, 255);
+    font-size: 40px;
+    text-decoration: none;
+    padding-left: 10px;
+    font-family: Elephant;
+}
+#li{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-decoration: none;
+    font-family: monospace;
+    padding-left: 20px;
+}
+#pic{
+    width: 40px;
+    height: 40px;
+    float: right;
+    padding-right: 10px;
+    padding-top: 10px;
+
+
+}
+.content{
+    width: 100%;
+    height: 450px;
+    background-repeat: none;
+    background-size: cover;
+    background-image:url(traditional-salad-with-pieces-medium-rare-grilled-ahi-tuna-sesame-with-fresh-vegetable-salad-rice-plate.jpg)
+    
+
+}
+h2{
+    color: rgb(70, 0, 70);
+    text-align: center;
+    font-family: Franklin Gothic Demi;
+    margin: 0;
+    font-size: 80px;
+    padding-top: 100px;
+}
+h3{
+    color:rgb(70, 0, 70);
+     text-align: center;
+    font-family: Franklin Gothic Demi;
+    margin: 0;
+    font-size: 20x;
+    padding-top: 50p;
+
+
+
+}
+h4{
+    color:rgb(70, 0, 70);
+     text-align: center;
+    font-family: Franklin Gothic Demi;
+    margin: 0;
+    font-size: 40x;
+    padding-top: 50px;
+}
+p{
+    color: rgb(88, 0, 112);
+    text-align: center;
+    margin:0;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 50px;
+}
+.service{
+    width:100%;
+    height:10px;
+    text-align: center;
+   background-color: rgb(42, 0, 54);
+    background-size: cover;
+    font-size: large;
+    font-family: Tahoma light;
+}
+#sh,#sp{
+    color: #f3edf2;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+#nw{
+    font-family: Cooper #f3edf2;
+    color:rgb(242, 255, 0);
+}
+.pic{
+    width:400px;
+    height:400px;
+    float: left;
+    margin-left: 80px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border-style: groove;
+    box-shadow:1px 1px 1px 1px;
+
+}
+#im{
+    width:400px;
+    height:250px;
+}
+.p{
+    width:400px;
+    height:100px;
+    background-color: rgb(42, 0, 54);
+    border-radius: 50px;
+    font-family: serif;
+}
+.footer{
+    width: 100%;
+    height: 250px;
+    background-color:  rgb(42, 0, 54);
+    text-align: center;
+
+}
+#fot{
+    color: rgb(42, 0, 54);
+}
+#cp{
+    text-decoration: none;
+    color: black;
+}
